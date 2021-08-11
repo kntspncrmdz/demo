@@ -1,3 +1,3 @@
-# My App
+# Git Practice
 
-This is my app
+This is a repo for my practice in Git
